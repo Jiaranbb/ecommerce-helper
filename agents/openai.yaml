@@ -1,0 +1,4 @@
+interface:
+  display_name: "eCommerce-helper"
+  short_description: "制作战略报告、商详、商品图与多渠道社媒素材包"
+  default_prompt: "使用 $ecommerce-helper 为这个商品制作完整电商素材包：销售战略报告及 PDF、商详方案与分屏图片，以及小红书、私域、朋友圈和公众号素材；如指定特殊平台，再叠加平台适配。"
