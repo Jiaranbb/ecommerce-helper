@@ -25,9 +25,9 @@ A complete run organizes research material, internal synthesis, sales strategy, 
 
 The product sales strategy is delivered both as a Markdown master and a shareable PDF. The report preview below uses a fully fictional product and simulated data to demonstrate the actual public renderer without presenting any market claim as real.
 
-The report starts with the decision, then walks through product differentiation and market opportunity, target customer, sales proposition, SKU and pricing strategy, go-to-market validation, the final decision card, and primary sources:
+The report starts with the decision, then walks through product differentiation and market opportunity, target customer, sales proposition, SKU and pricing strategy, go-to-market validation, and the final decision card. Using the soy-sauce case only as a structural example, the guide below lists every major section and subsection without exposing pricing, buyer conclusions, or client material:
 
-![Demo strategy-report reading guide: executive summary, product differentiation, target customer, sales proposition, SKU and pricing, go-to-market validation, final decision, and sources](assets/demo-report-reading-guide.png)
+![Detailed product-sales-strategy reading guide listing all five stages, major sections, subsections, final decision card, and source groups](assets/demo-report-reading-guide.png)
 
 | Strategy report cover | Report body |
 |---|---|
